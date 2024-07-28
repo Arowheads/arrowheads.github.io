@@ -11,8 +11,6 @@ Life, man. It's like a rollercoaster on steroids, hurtling you between epic high
 
 But hold on, fellow traveler! Before you chuck your phone into the Ganges, check out Stoicism. Think of it as the ultimate chill guide to navigating this crazy ride. Forget stuffy old dudes in togas – Stoicism is for anyone who wants to stay cool as a cucumber even when life throws you a rotten mango.
 
-![Ferb from Phineas and Ferb standing against his skateboard](ferb-vector.png "Ferb from Phineas and Ferb")
-
 Here's the deal:
 
 #### 1. **Chill on the control freak-out:** 
@@ -35,7 +33,5 @@ Stoicism isn't about magic spells or quick fixes. It's a journey of self-discove
 
 
 Thank you for reading!
-
-![A quote on happiness by Epictetus](happiness-epictetus.png "Is it really happiness that we all need?")
 
 Share your feedback at [jassingh.7995@gmail.com](mailto:jassingh.7995@gmail.com?subject=Feedback).

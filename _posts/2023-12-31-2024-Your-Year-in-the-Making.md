@@ -34,6 +34,4 @@ So, there you have it. Forget the fortune cookies, 2024 is what you make it. Emb
 
 Thank you for reading!
 
-![Memento Mori: The Art of Living Freely](memento-mori-tsw.png "Memento Mori")
-
 Share your feedback at [jassingh.7995@gmail.com](mailto:jassingh.7995@gmail.com?subject=Feedback).
