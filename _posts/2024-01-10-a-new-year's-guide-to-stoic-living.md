@@ -36,4 +36,6 @@ So, ditch the resolutions and embrace the ride. Find your inner Stoic, cultivate
 
 Thank you for reading!
 
+![Will this year be "my year"?](<../TSW Assets/will-this-be-my-year.jpeg> "Will this year be "my year?"")
+
 Share your feedback at [jassingh.7995@gmail.com](mailto:jassingh.7995@gmail.com?subject=Feedback).
