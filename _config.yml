@@ -1,7 +1,7 @@
 title: ModernAtrociousMonkey
 author:
-   name: Jas
-   email: jassingh.7995@gmail.com
+  name: Jas
+  email: jassingh.7995@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -41,13 +41,13 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-   skin: solarized
+  skin: solarized
   google_analytics: UA-NNNNNNNN-N
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #date_format: "%b-%d-%Y"
-   disqus:
+  disqus:
     shortname: modernatrociousmonkey
   # Generate social links in footer.
   social_links:
