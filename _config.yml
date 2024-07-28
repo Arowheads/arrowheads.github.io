@@ -5,8 +5,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: The ModernAtrociousMonkey has something for everyone. From poems and stories to dwelling balls deep into specifics of human kind and all of it's nuances.
-We think, so you can act.
+description: The ModernAtrociousMonkey has something for everyone. From poems and stories to dwelling balls deep into specifics of human kind and all of it's nuances. We think, so you can act.
 
 # Build settings
 
