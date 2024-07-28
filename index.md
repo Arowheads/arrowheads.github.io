@@ -11,4 +11,6 @@ layout: home
 WE'RE BACK!
 
 The Stoic Weekly has upgraded to The Modern Atrcious Monkey to provide coverage to a broader range of topics than just Stoicism.
-Stick around to be a part of the change!
+From poems and stories to dwelling balls deep into specifics of human kind and all of it's nuances. 
+
+We think, so you can act.

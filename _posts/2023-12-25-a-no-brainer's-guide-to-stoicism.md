@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A No Brainer's Guide to Stoicism: Life's a Trip Dude, Chill."
-categories: intro
+categories: post
 author:
 - Jas
 meta: "Springfield"

@@ -1,1 +1,1 @@
-TheModernAtrociousMonkey
+The ModernAtrociousMonkey has something for everyone. From poems and stories to dwelling balls deep into specifics of human kind and all of it's nuances. We think, so you can act.
