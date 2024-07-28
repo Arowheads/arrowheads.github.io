@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The ModernAtrociousMonkey has something for everyone. 
+We think, so you can act.
 
 ---
 
