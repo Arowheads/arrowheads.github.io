@@ -14,3 +14,4 @@ The Stoic Weekly has upgraded to The Modern Atrcious Monkey to provide coverage 
 From poems and stories to dwelling balls deep into specifics of human kind and all of it's nuances. 
 
 We think, so you can act.
+
