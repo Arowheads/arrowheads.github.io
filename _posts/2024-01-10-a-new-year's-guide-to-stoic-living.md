@@ -6,7 +6,6 @@ categories: post
 author:
 - Jas
 meta: "Springfield"
-comments: true
 ---
 
 As we navigate the precipice of a new year, the familiar allure of resolutions beckons. Yet, let us pause. These ambitious pronouncements, often hastily etched on fleeting napkin scraps, tend to crumble under the weight of their own unrealism. This year, instead of succumbing to the pressure of self-transformation, let us embrace a different path: the path of Stoicism.

@@ -47,8 +47,6 @@ minima:
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #date_format: "%b-%d-%Y"
-  disqus:
-    shortname: modernatrociousmonkey
   # Generate social links in footer.
   social_links:
     - { platform: github,         user_url: "https://github.com/modernatrociousmonkey/modernatrociousmonkey.github.io" }

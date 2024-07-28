@@ -5,7 +5,6 @@ categories: post
 author:
 - Jas
 meta: "Springfield"
-comments: true
 ---
 
 Life, man. It's like a rollercoaster on steroids, hurtling you between epic highs and stomach-churning lows. One minute you're on top of the world, the next you're drenched in the rain. It's enough to make anyone want to curl up under a pile of samosas and call it quits.

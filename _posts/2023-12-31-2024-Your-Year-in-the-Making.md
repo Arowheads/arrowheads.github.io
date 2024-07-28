@@ -5,7 +5,6 @@ categories: post
 author:
 - Jas
 meta: "Springfield"
-comments: true
 ---
 
 Forget crystal balls and horoscopes – let's talk real about 2024 being *"your year."* Sure, the stars might have something to say, but the truth is, YOU hold the paintbrush for this blank canvas. 
