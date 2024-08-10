@@ -46,13 +46,9 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit * .5;
-  .antic-regular {
-    font-family: "Antic", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
+  font-family: "Antic", sans-serif;
 }
+
 
 hr {
   margin-top: $spacing-unit;
