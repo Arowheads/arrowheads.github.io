@@ -1,4 +1,6 @@
 @charset "utf-8";
+@import url(https://db.onlinewebfonts.com/c/bb99de1682ee75602d351c1dde11a054?family=TAN+-+PEARL); 
+@import url('https://fonts.googleapis.com/css2?family=Antic&display=swap');
 
 // Default color scheme settings
 // These are overridden in classic.css and dark.scss
@@ -116,7 +118,7 @@ $dm-text-color:            #bbbbbb !default;
 $dm-background-color:      #181818 !default;
 $dm-code-background-color: #212121 !default;
 
-$dm-link-base-color:       #79b8ff !default;
+$dm-link-base-color:       #fdedbb !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
 $dm-link-hover-color:      $dm-text-color !default;
 
