@@ -1,5 +1,6 @@
 @import url(https://db.onlinewebfonts.com/c/bb99de1682ee75602d351c1dde11a054?family=TAN+-+PEARL); 
 @import url('https://fonts.googleapis.com/css2?family=Antic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
 html {
   font-size: $base-font-size;
 }
@@ -117,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $link-base-color;
   text-decoration: none;
-  font-family: "TAN - PEARL";
+  font-family: "Berkshire Swash", serif;
 
   &:visited {
     color: $link-visited-color;
